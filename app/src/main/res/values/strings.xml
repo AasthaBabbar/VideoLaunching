@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VideoLaunching</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">www.tafesa.edu.au</string>
+    <string name="nav_header_subtitle">Welcome to ITWorks</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Videos</string>
+    <string name="menu_slideshow">VideoWithComments</string>
+
+    <string name="home_second">Subjects</string>
+</resources>
